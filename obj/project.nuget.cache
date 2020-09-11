@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vpMFYcAthapjYHdvQ/OvBkv3AUVMq3GTuqplXMPsrGZqJoWVRSJiLymzWQ0RxYRxxgwtWh/Cq3TMSf2BR42rTQ==",
+  "dgSpecHash": "i3A1yBdjOX5Vx+MmOylrawZt3c6+iEQZ8pJ6dKjTT0nDqPVFtrLeSZT2TPDkbj3AnS2i8WI/Bhq8+gNzi1WhEQ==",
   "success": true,
-  "projectFilePath": "C:\\DATA\\Codes\\MVC\\POC\\SampleMVCApps\\SampleMVCApps.csproj",
+  "projectFilePath": "C:\\DATA\\Codes\\SampleMVCApps\\SampleMVCApps.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SoulFLYsk\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\SoulFLYsk\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

@@ -8960,11 +8960,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DATA\\Codes\\MVC\\POC\\SampleMVCApps\\SampleMVCApps.csproj",
+      "projectUniqueName": "C:\\DATA\\Codes\\SampleMVCApps\\SampleMVCApps.csproj",
       "projectName": "SampleMVCApps",
-      "projectPath": "C:\\DATA\\Codes\\MVC\\POC\\SampleMVCApps\\SampleMVCApps.csproj",
+      "projectPath": "C:\\DATA\\Codes\\SampleMVCApps\\SampleMVCApps.csproj",
       "packagesPath": "C:\\Users\\SoulFLYsk\\.nuget\\packages\\",
-      "outputPath": "C:\\DATA\\Codes\\MVC\\POC\\SampleMVCApps\\obj\\",
+      "outputPath": "C:\\DATA\\Codes\\SampleMVCApps\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SoulFLYsk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9032,7 +9032,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
